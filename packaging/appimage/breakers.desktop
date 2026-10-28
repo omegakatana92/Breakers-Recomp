@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Breakers
+Comment=Native static recompilation of Breakers (Neo Geo)
+Exec=Breakers
+Icon=breakers
+Categories=Game;
+Terminal=false

@@ -1,0 +1,4 @@
+# Breakers: coin and start during the attract loop.
+# Frame numbers are 59.19 Hz video frames from power-on.
+2500 coin
+2700 start
